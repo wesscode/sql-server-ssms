@@ -20,6 +20,11 @@ Projeto de estudo voltado a linguagem T-SQL.
 * O que é um índice ?
   - Na prática sql salva  os registro em páginas de 8k ao fazer uma buscar ele faz um scan nesses fragmentos o indice ajuda na performance pois ele já possui o ponteiro para onde a informação se encontra.
   - índices consomem muito espaço em disco, logo concorrendo com o espaço do nosso banco, isso pode ser uma desvantagem. Também ao persistir informação podemos perder performance. Pois o sql precisa reordenar/reestruturar o índice autómaticamente.
-
-### Pesquisar sobre conceitos
+* O que são constraints(restrição de intergridade) ?
+  - É um mecanismo de banco de dados relacionais que garante a consistência dos dados que serão persistidos no banco de dados.  
+* O que é uma view ?
+  - Uma view é uma tabela virtual, seus valores são oriundos de uma consulta pré-definida, ou seja, depende de uma tabela onde os dados reais estão armazenados, um dos objetivos é simplificar consultas complexas retirando a responsabilidade da aplicação montar essas consultas e quando envolve regras de negócios às vezes são criadas propositalmente para esconder a lógica dos usuários.
+  - View materializada: armazena as informações das tabelas que à compõe em uma tabela fisica, logo quando requisitada ela já está com os dados garantindo peformance.
+  - View não materializada: view é materializada buscando informações das tabelas que à compõe no momento que é requisitada.
+* Pesquisar sobre conceitos
 - _www.conceito.de_
