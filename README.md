@@ -26,5 +26,9 @@ Projeto de estudo voltado a linguagem T-SQL.
   - Uma view é uma tabela virtual, seus valores são oriundos de uma consulta pré-definida, ou seja, depende de uma tabela onde os dados reais estão armazenados, um dos objetivos é simplificar consultas complexas retirando a responsabilidade da aplicação montar essas consultas e quando envolve regras de negócios às vezes são criadas propositalmente para esconder a lógica dos usuários.
   - View materializada: armazena as informações das tabelas que à compõe em uma tabela fisica, logo quando requisitada ela já está com os dados garantindo peformance.
   - View não materializada: view é materializada buscando informações das tabelas que à compõe no momento que é requisitada.
+ * O que são Stored Procedures ?
+   - De forma básica uma Procedure basicamente é um bloco de comandos ou instruções SQL de forma organizada para executar uma ou várias tarefas, no SQL Server usamos T-SQL para criar Stored Procedures.
+   - Vantagens: Compartilhada, Menos complexidade na aplicação, Segurança.
+   - Desvantagem: Alta dependência do banco de dados.
 * Pesquisar sobre conceitos
-- _www.conceito.de_
+  - _www.conceito.de_
