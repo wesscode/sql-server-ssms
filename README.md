@@ -28,7 +28,15 @@ Projeto de estudo voltado a linguagem T-SQL.
   - View não materializada: view é materializada buscando informações das tabelas que à compõe no momento que é requisitada.
  * O que são Stored Procedures ?
    - De forma básica uma Procedure basicamente é um bloco de comandos ou instruções SQL de forma organizada para executar uma ou várias tarefas, no SQL Server usamos T-SQL para criar Stored Procedures.
-   - Vantagens: Compartilhada, Menos complexidade na aplicação, Segurança.
-   - Desvantagem: Alta dependência do banco de dados.
+   - **Vantagens**: Compartilhada, Menos complexidade na aplicação, Segurança.
+   - **Desvantagem**: Alta dependência do banco de dados.
+ * O que são Function ?
+   - Functions são rotinas escritas por alguém que retornam algum valor ou até mesmo a estrutura de uma tabela, são conhecidas também por **UDF(_User-Defined Function_)**
+   - Tipos de functions: **Escalares:** Retornam um único valor. **Table-Valued:** Retornam um conjunto de resultados.
+   - UDF: Funções criadas pelo o usuário
+   - Built-In: Funções internas do sql
 * Pesquisar sobre conceitos
   - _www.conceito.de_
+  
+## Módulo Cláusulas & Operadores
+
