@@ -40,11 +40,11 @@ CREATE TABLE alunos_cursos
 
 -- Subconjunto: DML(linguagem de manipulação de dados)
 INSERT INTO alunos (nome, cpf, cidade, estado, data_nascimento) VALUES 
-('João','00000000001','FORTALEZA','CE', '2000-01-01'),
-('Eduardo','00000000002','SERGIPE','CE', '2000-02-02'),
-('Bruno','00000000003','MARACANAÚ','CE', '2000-03-03'),
-('Tiago','00000000004','CAUCAIA','CE', '2000-04-04'),
-('Heloysa','00000000005','PECÉM','CE', '2000-05-05');
+('João','00000000001','Aracaju','SE', '2000-01-01'),
+('Eduardo','00000000002','São paulo','SP', '2000-02-02'),
+('Bruno','00000000003','São paulo','SP', '2000-03-03'),
+('Tiago','00000000004','Rio de janeiro','RJ', '2000-04-04'),
+('Heloysa','00000000005','Aracaju','SE', '2000-05-05');
 
 INSERT INTO categorias (descricao) VALUES 
 ('Acesso a dados'),
