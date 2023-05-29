@@ -1,5 +1,5 @@
 -- LEFT JOIN: Tem como finalidade unir informações de duas fontes de dados.
--- Porém com o left join informamos ao sql que ele dê prioridade a tabela que está a ESQUEDA clausula JOIN
+-- Porém com o left join informamos ao sql que ele dê prioridade a tabela que está a ESQUEDA operador JOIN
 
 
 -- INSERT INTO categorias (descricao) VALUES ('Categoria Test')
