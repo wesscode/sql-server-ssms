@@ -1,3 +1,5 @@
+-- Subconjunto: DDL(LINGUAGEM DE DEFINIÇÃO DE DADOS)
+
 CREATE TABLE alunos
 (
     id int PRIMARY KEY IDENTITY,
