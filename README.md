@@ -40,3 +40,13 @@ Projeto de estudo voltado a linguagem T-SQL.
   
 ## Módulo Cláusulas & Operadores
 
+## Joins
+
+## Transações
+* A - Atomicidade: Faz tudo ou não faz nada.
+* C - Concistência: Garantir que o banco esteja concistente antes e depois de uma transação.
+* I - Isolamento: Transação ainda commitada, deve permanecer isolada de outras transações. 
+* D - Durabilidade: Mesmo após uma reinicialização do serviço do banco os dados ainda ficam disponiveis para acessar. 
+
+
+
