@@ -41,6 +41,11 @@ Projeto de estudo voltado a linguagem T-SQL.
 ## Módulo Cláusulas & Operadores
 
 ## Joins
+- INNER JOIN
+- LEFT JOIN
+- RIGHT JOIN
+- FULL JOIN
+- UNION / UNION ALL
 
 ## Transações
 * A - Atomicidade: Faz tudo ou não faz nada.
@@ -48,5 +53,17 @@ Projeto de estudo voltado a linguagem T-SQL.
 * I - Isolamento: Transação ainda commitada, deve permanecer isolada de outras transações. 
 * D - Durabilidade: Mesmo após uma reinicialização do serviço do banco os dados ainda ficam disponiveis para acessar. 
 
+## T-SQL
+- Funções
+- Stored Procedures
+- Views
+- Sequências
+- Adicionando coluna tabela existente
+- Removendo coluna tabela existente
+- Renomeando objetos (sp_rename)
 
+## Backup
+- Gerando Backup
+- Restaurando Backup
 
+## Tips & Tricks
