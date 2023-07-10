@@ -67,3 +67,8 @@ Projeto de estudo voltado a linguagem T-SQL.
 - Restaurando Backup
 
 ## Tips & Tricks
+- SQL Server Profile
+- Hint NoLOCK
+- Plano de execução
+- Usando corretamento Índices
+- Desfragmentando Índices
