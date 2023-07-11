@@ -67,7 +67,7 @@ Projeto de estudo voltado a linguagem T-SQL.
 - Restaurando Backup
 
 ## Tips & Tricks
-- SQL Server Profile
+- SQL Server Profile: Ferramenta para monitoria, auditoria e análise dos comandos executados na base de dados.
 - Hint NoLOCK
 - Plano de execução
 - Usando corretamento Índices
