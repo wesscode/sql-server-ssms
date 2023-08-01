@@ -69,6 +69,9 @@ Projeto de estudo voltado a linguagem T-SQL.
 ## Tips & Tricks
 - SQL Server Profile: Ferramenta para monitoria, auditoria e análise dos comandos executados na base de dados.
 - Hint NoLOCK
+  - Destrava e traz todos os dados até mesmo os que estão em trasações não comitadas.
 - Plano de execução
+  - Table Scan
+  - Index Seek
 - Usando corretamento Índices
 - Desfragmentando Índices
