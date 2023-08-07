@@ -75,3 +75,8 @@ Projeto de estudo voltado a linguagem T-SQL.
   - Index Seek
 - Usando corretamento Índices
 - Desfragmentando Índices
+  - Após muito tempo de uso é necessário desfragmentar os índices para evitar perdas de performance.
+  - Desfragmentação:
+    - Reorganização é indicada quando o percentual de fragmentação é entre 15% á 30%.
+    - Reconstruir é indicada quando o percentual de fragmentação é maior que 30%.
+    - Indicado para realizar essas operações quando o banco estiver tendo baixa requisição.
