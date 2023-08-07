@@ -80,3 +80,5 @@ Projeto de estudo voltado a linguagem T-SQL.
     - Reorganização é indicada quando o percentual de fragmentação é entre 15% á 30%.
     - Reconstruir é indicada quando o percentual de fragmentação é maior que 30%.
     - Indicado para realizar essas operações quando o banco estiver tendo baixa requisição.
+- CTE (Common table expression)
+  - Solução para devolver um conjuntos de dados temporários, após o uso a informação é descartada.
