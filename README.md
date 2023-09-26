@@ -58,6 +58,7 @@ Projeto de estudo voltado a linguagem T-SQL.
 - Stored Procedures
 - Views
 - Sequências
+- Triggers
 - Adicionando coluna tabela existente
 - Removendo coluna tabela existente
 - Renomeando objetos (sp_rename)
