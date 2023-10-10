@@ -83,3 +83,5 @@ Projeto de estudo voltado a linguagem T-SQL.
     - Indicado para realizar essas operações quando o banco estiver tendo baixa requisição.
 - CTE (Common table expression)
   - Solução para devolver um conjuntos de dados temporários, após o uso a informação é descartada.
+## Links apoio
+- https://www.w3schools.com/sql
